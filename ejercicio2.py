@@ -1,4 +1,4 @@
-from library import *
+from api.library import *
 
 
 def main(): 
